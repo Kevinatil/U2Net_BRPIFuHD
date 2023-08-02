@@ -6,7 +6,7 @@ The code repo for *U2 Net-Plus and Background Removal Based PIFu-HD : Human Body
 
 Same action in different backgrounds perform differently using PIFu-HD. 
 
-![img](media/compare.png)
+<img src="media/compare" alt="img" style="zoom:50%;" />
 
 We use U2Net to do background removal. The PIFu-HD can achieve better performance because of the simpler background.
 
@@ -14,7 +14,7 @@ We use U2Net to do background removal. The PIFu-HD can achieve better performanc
 
 The 3D reconstruction performance are shown as follows.
 
-![img](media/compare2.jpg)
+<img src="media/compare2.jpg" alt="img" style="zoom:50%;" />
 
 Besides, we compare different U2Net structures, including dense connection, residual connection and multi-receptive-field connection.
 
