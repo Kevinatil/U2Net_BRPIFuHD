@@ -61,4 +61,4 @@ python inference.py
 
 ## Acknowledgement
 
-We thank Shanghai Film Art Academy for the standard dancing videos, test dancing videos and official scores for model training. We thank Shanghai Film Art Academy and Beijing Dance Academy for the testing and valuable suggestions on our website.
+We thank Shanghai Film Art Academy for the standard dancing videos, test dancing videos and official scores for model training.
