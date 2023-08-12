@@ -62,3 +62,20 @@ python inference.py
 ## Acknowledgement
 
 We thank Shanghai Film Art Academy for providing training and testing data as well as standard dancing videos.
+
+## Citation
+
+Please cite the article or repo as
+
+```text
+@article{wang2022u2,
+  title={U2 Net-Plus and background removal-based PIFu-HD: human body reconstruction in complex background},
+  author={Wang, Guorun and Liu, Xudong and Lin, Kuo-Yi and Hwang, Fuhjiun},
+  journal={International Journal of Internet Manufacturing and Services},
+  volume={8},
+  number={4},
+  pages={330--351},
+  year={2022},
+  publisher={Inderscience Publishers (IEL)}
+}
+```
